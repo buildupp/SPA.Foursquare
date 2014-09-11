@@ -1,0 +1,15 @@
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\SPA.Foursquare.Web.Tests.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\SPA.Foursquare.Web.Tests.pdb
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\SPA.Foursquare.Web.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\SPA.Foursquare.Web.pdb
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\obj\Debug\SPA.Foursquare.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\obj\Debug\SPA.Foursquare.Web.Tests.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web.Tests\obj\Debug\SPA.Foursquare.Web.Tests.pdb

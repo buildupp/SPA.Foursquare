@@ -1,0 +1,14 @@
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\SPA.Foursquare.Web.dll.config
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\SPA.Foursquare.Web.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\SPA.Foursquare.Web.pdb
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\Newtonsoft.Json.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Net.Http.Formatting.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Web.Http.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Web.Http.WebHost.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\Newtonsoft.Json.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Net.Http.Formatting.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Web.Http.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\bin\System.Web.Http.WebHost.xml
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\obj\Debug\SPA.Foursquare.Web.csprojResolveAssemblyReference.cache
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\obj\Debug\SPA.Foursquare.Web.dll
+D:\Proyectos\SPA\Source\SPA.Foursquare\SPA.Foursquare.Web\obj\Debug\SPA.Foursquare.Web.pdb
